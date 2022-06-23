@@ -2,7 +2,7 @@
 
 <b>forkify Project</b>
 
-This is a simple to use recipe application that allows the use to look up their favourite recipes and upload their own, all in one place.
+This is a simple to use recipe application that allows the user to look up their favourite recipes and upload their own, all in one place.
 
 The application takes the user's input through a search bar and renders a list of results based on a preset list of search results available from the backend API. The user is able to input their own recipe via a modal which then saves the input in the same format as the backend API. It does not POST/PUT the recipe to the API but instead uses local storage.
 
