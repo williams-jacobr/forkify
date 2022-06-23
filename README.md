@@ -1,4 +1,6 @@
-<img src="./src/img/logo.png">
+<img
+src="./src/img/logo.png"
+style="width: 200px" />
 
 <b>forkify Project</b>
 
