@@ -1,3 +1,5 @@
+<img src="./src/img/logo.png">
+
 <b>forkify Project</b>
 
 This is a simple to use recipe application that allows the use to look up their favourite recipes and upload their own, all in one place.
